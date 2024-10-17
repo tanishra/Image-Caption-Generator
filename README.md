@@ -13,5 +13,5 @@ To try out the web demo of Image Caption Generator , visit Demo Link. 🚀 https
 ## Installation
 
 Clone the repository: git clone https://github.com/tanishra/Image-Caption-Generator.git Navigate to the 
-project directory: cd twitter-sentiment-analysis Install dependencies: pip install -r requirements.txt Run 
+project directory: cd Image Caption Generator Install dependencies: pip install -r requirements.txt Run 
 the application: streamlit  main.py 🛠️
